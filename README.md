@@ -13,7 +13,7 @@ I learned how to use Git and GitHub to manage and track changes to a Java web ap
 
 ## Getting Started
 
-After setting up the EC2 instance and configuring the remote host on VS Code, I was ready to integrate version control into my project. For detailed instructions on setting up an EC2 instance and connecting it to VS Code, refer to my previous blog post [here(#https://medium.com/devops-dev/setting-up-a-web-application-on-aws-my-first-aws-devops-project-a95777492c83)].
+After setting up the EC2 instance and configuring the remote host on VS Code, I was ready to integrate version control into my project. For detailed instructions on setting up an EC2 instance and connecting it to VS Code, refer to my previous blog post [here(https://medium.com/devops-dev/setting-up-a-web-application-on-aws-my-first-aws-devops-project-a95777492c83)].
 
 ---
 
@@ -30,8 +30,8 @@ After setting up the EC2 instance and configuring the remote host on VS Code, I 
    ```
 3. **Set Up Git Identity**:
    ```bash
-   git config --global user.name "Your Name"
-   git config --global user.email "youremail@example.com"
+   git config --global user.name "someshkumar"
+   git config --global user.email "somesh1st@gmail.com"
    ```
    - This ensures commits are associated with your name and email.
 
@@ -40,13 +40,13 @@ After setting up the EC2 instance and configuring the remote host on VS Code, I 
 ## Step 2: Creating a GitHub Repository
 
 1. **Created a New Repository on GitHub**:
-   - Repository Name: `nextwork-devops-webapp`
+   - Repository Name: `Devops-CICDPipeline`
    - Description: "Java web app set up on an EC2 instance."
    - Visibility: Public
    - Added a README file.
 
 2. **Copied the Repository URL**:
-   - Example: `https://github.com/yourusername/nextwork-devops-webapp.git`
+   - Example: `https://github.com/somesh1312/DevOps-CICDPipeline.git`
 
 ---
 
@@ -58,7 +58,7 @@ After setting up the EC2 instance and configuring the remote host on VS Code, I 
    ```
 2. **Connected the Local Repository to GitHub**:
    ```bash
-   git remote add origin https://github.com/yourusername/nextwork-devops-webapp.git
+   git remote add origin https://github.com/somesh1312/DevOps-CICDPipeline.git
    ```
 3. **Staged All Files**:
    ```bash
