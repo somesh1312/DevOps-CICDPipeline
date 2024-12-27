@@ -13,7 +13,7 @@ I learned how to use Git and GitHub to manage and track changes to a Java web ap
 
 ## Getting Started
 
-After setting up the EC2 instance and configuring the remote host on VS Code, I was ready to integrate version control into my project. For detailed instructions on setting up an EC2 instance and connecting it to VS Code, refer to my previous blog post [here](#).
+After setting up the EC2 instance and configuring the remote host on VS Code, I was ready to integrate version control into my project. For detailed instructions on setting up an EC2 instance and connecting it to VS Code, refer to my previous blog post [here](#https://medium.com/devops-dev/setting-up-a-web-application-on-aws-my-first-aws-devops-project-a95777492c83).
 
 ---
 
